@@ -1,0 +1,18 @@
+{
+  "name": "smart-parking-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Smart Parking System",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "moment": "^2.29.4",
+    "socket.io-client": "^4.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "parcel-bundler": "^1.12.5"
+  }
+}
