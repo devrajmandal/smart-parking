@@ -13,15 +13,3 @@ frontend/.env
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Build outputs
-dist/
-build/
-
-# Optional: Ignore lock files (uncomment if you want to ignore them)
-# package-lock.json
-# yarn.lock
